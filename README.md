@@ -1,2 +1,3 @@
-# js-consumindo-dados-api
-Repositório do treinamento "JavaScript: Consumindo e tratando dados de uma API" da Alura Cursos Online.
+# Consumo de API - ViaCEP
+
+Projeto desenvolvido para o curso de Formação em Front-End da Alura.
