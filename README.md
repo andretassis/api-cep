@@ -1,3 +1,2 @@
-# Consumo de dados da API Via Cep
-
-Projeto desenvolvido para o curso de Formação Front-End da Alura.
+# js-consumindo-dados-api
+Repositório do treinamento "JavaScript: Consumindo e tratando dados de uma API" da Alura Cursos Online.
